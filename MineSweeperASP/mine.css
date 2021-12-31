@@ -1,5 +1,0 @@
-table           { border-collapse:collapse; }
-td              { border:1px solid black; width:35px; height:35px; color:red }
-.mineWhole      { width:100%; height:100%; }
-.mineHere       { position:fixed; margin:0 auto; left:0; right:0; width:60%;  border:solid 1px gray; text-align: center;}
-.mineHere #mineTable       { position:fixed; margin:0 auto; left:0; right:0; width:60%;  border:solid 1px gray}
