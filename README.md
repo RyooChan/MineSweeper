@@ -5,8 +5,8 @@
 
 ## HTML
 * html에는 최대한 기능을 배제하고 껍데기만 구현하였다.
-<!doctype html>
 ```
+<!doctype html>
 <html lang="en" xmlns:th="http://www.thymeleaf.org">
 <html>
 <head>
